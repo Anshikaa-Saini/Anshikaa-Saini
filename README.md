@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anshika Saini
 =====================================================================================================================================
 
-Frontend web development enthusiast
+Coder by day, Reader by night!
 -----------------------------------
 
 I am an avid learner who has been immersed in the world of coding for the past two years. My coding journey began with Java as my inaugural programming language, where I delved into the intricacies of logic and problem-solving. However, my path took an exciting turn when I discovered the dynamic and ever-evolving realm of web development. The combination of creativity and technical prowess required in web development resonated with me, driving my exploration and dedication to mastering this fascinating domain.
